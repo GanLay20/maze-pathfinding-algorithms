@@ -1,7 +1,7 @@
 """
 Filename: main.py
 Author: Yan Myo Aung
-Email: ayn174@uregina.ca
+Email: mr.maheindra@gmail.com
 Date Created: 2023-07-03
 Description:
     This script provides implementations of various maze-solving algorithms and tools to visualize and
