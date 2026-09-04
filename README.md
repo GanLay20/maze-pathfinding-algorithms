@@ -44,7 +44,7 @@ For the sample 20 × 20 maze, every algorithm returned an optimal route containi
 
 ![A-star solution](images/a-star.png)
 
-When a maze contains multiple routes with the same cost, two optimal algorithms may return different routes. Equal route cost—not necessarily identical footprints—is the important correctness condition.
+When a maze contains multiple routes with the same cost, two optimal algorithms may return different routes. Equal route cost, rather than identical footprints, is the important correctness condition.
 
 ## Project Structure
 
