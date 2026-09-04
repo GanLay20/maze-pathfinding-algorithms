@@ -57,14 +57,11 @@ maze-pathfinding-algorithms/
 │   ├── a-star.png
 │   ├── branch-and-bound.png
 │   └── branch-and-bound-heuristic.png
-├── tests/
-│   ├── conftest.py
-│   └── test_algorithms.py
+│── test_algorithms.py
 ├── .gitignore
 ├── LICENSE
 ├── README.md
 ├── main.py
-├── requirements-dev.txt
 └── requirements.txt
 ```
 
