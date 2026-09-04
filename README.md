@@ -57,7 +57,6 @@ maze-pathfinding-algorithms/
 │   ├── a-star.png
 │   ├── branch-and-bound.png
 │   └── branch-and-bound-heuristic.png
-│── test_algorithms.py
 ├── .gitignore
 ├── LICENSE
 ├── README.md
